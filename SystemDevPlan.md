@@ -54,7 +54,6 @@ project-root/
 - [ ] 1. 建立前端專案：`npm create vite@latest frontend --template react`
 - [ ] 2. 建立後端專案資料夾與基本結構（使用 FastAPI + SQLAlchemy）
 - [ ] 3. 設定 `.env` 檔案與資料庫連線
-
 ---
 
 ### 後端開發：帳號與使用者功能
